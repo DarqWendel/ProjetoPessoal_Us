@@ -56,11 +56,13 @@
 
 
     <div class="musica">
-        <audio autoplay loop>
+
+        <button  id="botao"   onclick="playMusic()">
+        <audio  controls autoplay loop>
             <source src="/music/sleeping at last - turning page (legendado).mp3" type="audio/mpeg">
         </audio>
 
-        <button  id="botao"   onclick="playMusic()"></button>
+        </button>
 
 <script>
     function playMusic() {
