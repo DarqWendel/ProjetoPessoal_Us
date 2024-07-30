@@ -111,8 +111,10 @@ body {
 }
 
 .text-container #forte {
-    display: flex;
-    text-align: left;
+    display: inline-block;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 3px;
 }
 
 
