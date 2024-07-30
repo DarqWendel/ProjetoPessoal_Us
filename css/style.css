@@ -233,3 +233,10 @@ svg path#heart {
     border-radius: 10%;
     box-shadow: inset;
 }
+
+
+#botao {
+    width: 0,1px;
+    height: 0,1px;
+    
+}
